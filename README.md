@@ -6,8 +6,8 @@
 | ---  |   ---     |   ---   |   ---   |   ---  | --- |  ---   |
 | 9期  | 深井克己   |  参加感想  |   ---   |  435  | 1枚 853KB |    |    
 | 21期 | 高橋充     |  参加感想  |  楽しかった東京鳳鳴会  |   231  | 1枚 7KB | 写真の解像度が低い  |
-| 40期 | 飯田賀津子 | 参加感想 | 鳳鳴生は元気！ |   191  | 1枚 47KB |  写真の解像度が低い   |
-| 46期 | 小笠原正卓<br/>[preview]https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/46%E6%9C%9F%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%AD%A3%E5%8D%93/preview.md |  寄稿 |   それぞれの場所で輝く同窓へ <br/> 大館から贈る心からのエール  |   1761 | 2枚 790KB, 81KB |  ---   |
+| 40期 | 飯田賀津子<br />[preview](https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/40%E6%9C%9F%20%E9%A3%AF%E7%94%B0%E8%B3%80%E6%B4%A5%E5%AD%90/preview.md) | 参加感想 | 鳳鳴生は元気！ |   191  | 1枚 47KB |  写真の解像度が低い   |
+| 46期 | 小笠原正卓<br/>[preview](https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/46%E6%9C%9F%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%AD%A3%E5%8D%93/preview.md) |  寄稿 |   それぞれの場所で輝く同窓へ <br/> 大館から贈る心からのエール  |   1761 | 2枚 790KB, 81KB |  ---   |
 | 67期 | 羽澤悠平<br/>[preview](https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/67%E6%9C%9F%20%E7%BE%BD%E6%BE%A4%E6%82%A0%E5%B9%B3/preview.md)   | 寄稿  |   ---   |   1584  |2枚 266KB, 336KB |  ---   |
 | 77期 | 畠山伊織<br/>[preview](https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/77%E6%9C%9F%20%E7%95%A0%E5%B1%B1%E4%BC%8A%E7%B9%94/preview.md)   | 寄稿   |   ---   |   1057  | 1枚 1856KB |  ---   |
 | 期 | 馬淵 |  寄稿 |    |    |  |  未入稿   |

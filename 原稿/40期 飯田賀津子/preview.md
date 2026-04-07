@@ -1,5 +1,5 @@
-#### 
-## 飯田香津子　40期
+#### [Home](https://github.com/gh-mtkn-org/2026-homei)
+## 40期 飯田香津子　
 ### 「鳳鳴生は元気！」
 
 <p>
