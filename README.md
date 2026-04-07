@@ -10,9 +10,9 @@
 | 46期 | 小笠原正卓<br/>[preview](https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/46%E6%9C%9F%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%AD%A3%E5%8D%93/preview.md) |  寄稿 |   それぞれの場所で輝く同窓へ <br/> 大館から贈る心からのエール  |   1761 | 2枚 790KB, 81KB |  ---   |
 | 67期 | 羽澤悠平<br/>[preview](https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/67%E6%9C%9F%20%E7%BE%BD%E6%BE%A4%E6%82%A0%E5%B9%B3/preview.md)   | 寄稿  |   ---   |   1584  |2枚 266KB, 336KB |  ---   |
 | 77期 | 畠山伊織<br/>[preview](https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/77%E6%9C%9F%20%E7%95%A0%E5%B1%B1%E4%BC%8A%E7%B9%94/preview.md)   | 寄稿   |   ---   |   1057  | 1枚 1856KB |  ---   |
-| 期 | 馬淵 |  寄稿 |    |    |  |  未入稿   |
-| 37 期 | 杉田 |  寄稿 |    |    |  |  未入稿   |
-| 期 | 佐藤 |  寄稿 |    |    |  |  要依頼   |
-| 期 | 因幡 |  寄稿 |    |    |  |  要依頼   |
+| 14 期 | 馬淵さん |  寄稿 |    |    |  |  未入稿   |
+| 37 期 | 杉田さん |  寄稿 |    |    |  |  未入稿   |
+| 25 期 | 佐藤さん |  寄稿 |    |    |  |  要依頼   |
+| 24 期 | 因幡さん |  寄稿 |    |    |  |  要依頼   |
 
 
