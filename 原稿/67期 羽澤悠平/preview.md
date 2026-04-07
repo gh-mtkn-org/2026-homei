@@ -1,6 +1,6 @@
-## 67期 羽澤 悠平
+#### [Home](https://github.com/gh-mtkn-org/2026-homei)
 
-[Home](https://github.com/gh-mtkn-org/2026-homei)
+## 67期 羽澤 悠平
 
 <p>　
 高校時代の思い出を2つ書きたい。<br />
