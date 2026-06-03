@@ -5,6 +5,7 @@
 | 期   |    氏名   |   分類   | タイトル | 文字数 | 写真 |  備考  |
 | ---  |   ---     |   ---   |   ---   |   ---  | --- |  ---   |
 | 9期  | 深井克己<br />[preview](https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/9%E6%9C%9F%20%E6%B7%B1%E4%BA%95%E5%85%8B%E5%B7%B1/preview.md)   |  参加感想  |  東京鳳鳴会に参加して思う.   |  435  | 1枚 853KB |    |    
+| 14期  | 馬淵雄一<br />[preview](https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/14%E6%9C%9F%20%E9%A6%AC%E6%B7%B5%E9%9B%84%E4%B8%80/Preview.md)   |  寄稿  |  スキーは生涯“俺の恋人”   |  2005  | 2枚 PDF 112KB,113KB | PDFから写真を抜き出す必要がある   |    
 | 21期 | 高橋充<br />[preview](https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/21%E6%9C%9F%20%E9%AB%98%E6%A9%8B%E5%85%85/preview.md)     |  参加感想  |  楽しかった東京鳳鳴会  |   231  | 1枚 7KB | 写真の解像度が低い  |
 | 37 期 | 杉田博之<br />[preview](https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/37%E6%9C%9F%20%E6%9D%89%E7%94%B0%E5%8D%9A%E4%B9%8B/preview.md) |  寄稿 | 出版と音楽、二足のわらじで迎える還暦   | 2683   | 4枚 400KB未満 |     |
 | 40期 | 飯田賀津子<br />[preview](https://github.com/gh-mtkn-org/2026-homei/blob/main/%E5%8E%9F%E7%A8%BF/40%E6%9C%9F%20%E9%A3%AF%E7%94%B0%E8%B3%80%E6%B4%A5%E5%AD%90/preview.md) | 参加感想 | 鳳鳴生は元気！ |   191  | 1枚 47KB |  写真の解像度が低い   |
